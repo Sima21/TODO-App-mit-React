@@ -1,0 +1,29 @@
+.todo-app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.todo-components-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* TodoApp.css */
+
+.todo-app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5d3e6; /* Hellrosa Hintergrundfarbe */
+}
+
+.todo-components-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
